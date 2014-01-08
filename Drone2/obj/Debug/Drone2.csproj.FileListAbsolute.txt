@@ -1,0 +1,6 @@
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\bin\Debug\Drone2.exe.config
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\bin\Debug\Drone2.exe
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\bin\Debug\Drone2.pdb
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\obj\Debug\Drone2.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\obj\Debug\Drone2.exe
+c:\users\john\documents\visual studio 2012\Projects\Drone2\Drone2\obj\Debug\Drone2.pdb
